@@ -2,7 +2,7 @@
 
 A lightweight AutoHotkey script for managing GTA V network connections, allowing you to block/unblock network access and control the save system with customizable hotkeys and a convenient system tray menu.
 
-![GitHub License](https://img.shields.io/github/license/mishl-dev/gtav-network-hotkeys)
+![GitHub License](https://img.shields.io/badge/License-MIT-green.svg)
 ![AutoHotkey Version](https://img.shields.io/badge/AutoHotkey-v2.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 
